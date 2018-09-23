@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "The Unix Workbench: Bash, Make, Git and Github" > README.md
+	echo '#The Unix Workbench: Bash, Make, Git and Github#' > README.md
 	echo " " >> README.md
 	date >> README.md
 	echo " " >> README.md
